@@ -27,5 +27,8 @@ Driven to architect enterprise-grade defense models and scale into strategic sec
 ---
 
 ### 📈 Activity Metrics
-![Yannich's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Y6THAY&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Y6THAY&layout=compact&theme=dark&hide_border=true)
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=y6thay&show_icons=true&theme=dark" alt="Yannich's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y6thay&layout=compact&theme=dark" alt="Top Langs" height="180" />
+</p>
