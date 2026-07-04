@@ -14,19 +14,6 @@ Driven to architect enterprise-grade defense models and scale into strategic sec
 ### 🛠️ The Defensive Tech Stack
 
 **Languages & Automation:** 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=sqlite&logoColor=white)
-
-**Security, Testing & Infrastructure:**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Wireshark](https://img.shields.io/badge/Wireshark-167EE6?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=portswigger&logoColor=white)
-
----
-
-### 📈 Activity Metrics
 
 **Security Operations & Analysis:**
 ![Wireshark](https://img.shields.io/badge/Wireshark-167EE6?style=for-the-badge&logo=wireshark&logoColor=white)
@@ -39,6 +26,7 @@ Driven to architect enterprise-grade defense models and scale into strategic sec
 ![Ubuntu](https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 **Automation & Data Queries:**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python_automation-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Bash/Shell](https://img.shields.io/badge/bash_scripting-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL_Data_Queries-CC292B?style=for-the-badge&logo=sqlite&logoColor=white)
