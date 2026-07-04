@@ -28,7 +28,17 @@ Driven to architect enterprise-grade defense models and scale into strategic sec
 
 ### 📈 Activity Metrics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=y6thay&show_icons=true&theme=dark" alt="Yannich's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y6thay&layout=compact&theme=dark" alt="Top Langs" height="180" />
-</p>
+**Security Operations & Analysis:**
+![Wireshark](https://img.shields.io/badge/Wireshark-167EE6?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=portswigger&logoColor=white)
+![SIEM/Splunk](https://img.shields.io/badge/SIEM_Splunk-000000?style=for-the-badge&logo=splunk&logoColor=ECEFF1)
+![Chronicle](https://img.shields.io/badge/Google_Chronicle-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+**Operating Systems & Hardening:**
+![Linux](https://img.shields.io/badge/Linux_SysAdmin-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+**Automation & Data Queries:**
+![Python](https://img.shields.io/badge/python_automation-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Bash/Shell](https://img.shields.io/badge/bash_scripting-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL_Data_Queries-CC292B?style=for-the-badge&logo=sqlite&logoColor=white)
