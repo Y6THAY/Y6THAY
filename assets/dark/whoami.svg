@@ -14,7 +14,7 @@
     @media (prefers-reduced-motion: reduce) { .rise { animation: none; opacity: 1; } }
   </style>
 
-  <text class="mono rise a1" x="48" y="32" font-size="16" fill="var(--bone)">CS student &amp; academic mentor at ISUTC.</text>
+  <text class="mono rise a1" x="48" y="32" font-size="16" fill="var(--bone)">CS student &amp; ex-academic mentor at ISUTC.</text>
   <text class="mono rise a2" x="48" y="60" font-size="16" fill="var(--bone)">engineering custom security tools, system automation, and defensive software.</text>
   <text class="mono rise a3" x="48" y="88" font-size="15" fill="var(--muted)">combining hands-on technical depth with long-term security strategy.</text>
 
