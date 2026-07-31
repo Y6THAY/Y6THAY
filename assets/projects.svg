@@ -1,17 +1,15 @@
 <svg viewBox="0 0 1000 390" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Projects by Yannich Carlos">
   <style>
-    :root { --ink:#000000; --paper:#FFFFFF; }
-    @media (prefers-color-scheme:dark) { :root { --ink:#FFFFFF; --paper:#000000; } }
+    /* New style rules with black colors directly and transparent background maintained */
     .mono { font-family:ui-monospace,"SFMono-Regular","SF Mono",Menlo,Consolas,"Liberation Mono",monospace; }
     .row { opacity:0; animation:reveal .55s cubic-bezier(.2,.7,.2,1) forwards; }
-    .rule { stroke:var(--ink); stroke-width:1; }
-    .title { fill:var(--ink); font-size:17px; font-weight:700; letter-spacing:.8px; }
-    .copy { fill:var(--ink); font-size:12px; }
-    .meta { fill:var(--ink); font-size:11px; letter-spacing:.4px; }
+    .rule { stroke:#000000; stroke-width:1; } /* Change to black */
+    .title { fill:#000000; font-size:17px; font-weight:700; letter-spacing:.8px; } /* Change to black */
+    .copy { fill:#000000; font-size:12px; } /* Change to black */
+    .meta { fill:#000000; font-size:11px; letter-spacing:.4px; } /* Change to black */
     @keyframes reveal { from { opacity:0; } to { opacity:1; } }
     .r1{animation-delay:.05s}.r2{animation-delay:.10s}.r3{animation-delay:.15s}
     @media (prefers-reduced-motion:reduce) { .row { animation:none; opacity:1; } }
-    :root { --ink:#000000; --paper:#FFFFFF; }
   </style>
 
   <g class="mono">
