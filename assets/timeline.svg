@@ -1,55 +1,64 @@
-<svg viewBox="0 0 1200 250" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Timeline: 2021 first commit, 2025 ISUTC computer science, 2026 academic mentorship, now open to internships">
+ <svg viewBox="0 0 1200 250" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Timeline: 2023 first commit, 2024 google cybersecurity cert, 2025 ISUTC computer science, 2026 academic mentorship, now open to opportunities">
   <style>
-    :root { --bone: #444444; --muted: #888888; --dim: #AAAAAA; --rule: #C0C0C0; --accent: #555555; }
-    @media (prefers-color-scheme: dark) { :root { --bone: #DDDDDD; --rule: #444444; --muted: #777777; --dim: #666666; --accent: #AAAAAA; } }
-    .mono { font-family: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    :root { 
+      --rule: #FFFFFF; 
+      --muted: #FFFFFF; 
+      --accent: #FFFFFF; 
+      --ghost: #FFFFFF; 
+    }o { font-family: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
     .axis { stroke: var(--rule); stroke-width: 1; stroke-dasharray: 1110; stroke-dashoffset: 1110; animation: draw 2.4s cubic-bezier(.6,0,.2,1) forwards; }
     @keyframes draw { to { stroke-dashoffset: 0; } }
     .m { opacity: 0; animation: rise .7s cubic-bezier(.2,.7,.2,1) forwards; }
     @keyframes rise { from{opacity:0;transform:translateY(8px)} to{opacity:1;transform:translateY(0)} }
-    .m1{animation-delay:.4s}.m2{animation-delay:.9s}.m3{animation-delay:1.4s}.m4{animation-delay:1.9s}
+    .m1{animation-delay:.3s}.m2{animation-delay:.7s}.m3{animation-delay:1.1s}.m4{animation-delay:1.5s}.m5{animation-delay:1.9s}
     .pulse { animation: pulse 2.6s ease-in-out infinite; }
     @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:.35} }
-    .ring { animation: ring 2.6s ease-out infinite; transform-origin: 920px 125px; }
+    .ring { animation: ring 2.6s ease-out infinite; transform-origin: 960px 125px; }
     @keyframes ring { 0%{transform:scale(.4);opacity:.8} 80%,100%{transform:scale(3);opacity:0} }
     @media (prefers-reduced-motion: reduce) {
       .axis,.m,.pulse,.ring { animation: none; } .axis{stroke-dashoffset:0} .m{opacity:1} .ring{opacity:0}
     }
-    :root { --bone: #000000; --muted: #000000; --dim: #000000; --rule: #000000; --accent: #000000; --node-bg: #FFFFFF; --core-bg: #FFFFFF; --ghost: #000000; }
   </style>
 
   <line x1="48" y1="40" x2="1152" y2="40" stroke="var(--rule)"/>
   <text fill="var(--muted)" class="mono" x="48" y="28" font-size="11" letter-spacing="3.5">THE ROUTE SO FAR</text>
-  <text fill="var(--muted)" class="mono" x="1152" y="28" font-size="11" letter-spacing="3.5" text-anchor="end">FIG. 03</text>
+  <text fill="var(--muted)" class="mono" x="1152" y="28" font-size="11" letter-spacing="3.5" text-anchor="end">FIG. 02</text>
 
-  <line class="axis" x1="48" y1="125" x2="1158" y2="125"/>
+  <line class="axis" x1="48" y1="125" x2="1152" y2="125"/>
 
   <g class="m m1">
-    <circle cx="180" cy="125" r="4" fill="var(--bone)"/>
-    <line x1="180" y1="121" x2="180" y2="96" stroke="var(--rule)"/>
-    <text fill="var(--accent)" class="mono" x="180" y="74" font-size="11" letter-spacing="2" text-anchor="middle">2023</text>
-    <text fill="var(--bone)" class="mono" x="180" y="90" font-size="10.5" letter-spacing="1" text-anchor="middle">first commit &amp; core scripting</text>
+    <circle cx="160" cy="125" r="4" fill="var(--bone)"/>
+    <line x1="160" y1="121" x2="160" y2="96" stroke="var(--rule)"/>
+    <text fill="var(--accent)" class="mono" x="160" y="74" font-size="11" letter-spacing="2" text-anchor="middle">2023</text>
+    <text fill="var(--bone)" class="mono" x="160" y="90" font-size="10.5" letter-spacing="1" text-anchor="middle">first commit &amp; core scripting</text>
   </g>
 
   <g class="m m2">
-    <circle cx="480" cy="125" r="4" fill="var(--bone)"/>
-    <line x1="480" y1="129" x2="480" y2="154" stroke="var(--rule)"/>
-    <text fill="var(--accent)" class="mono" x="480" y="172" font-size="11" letter-spacing="2" text-anchor="middle">2025</text>
-    <text fill="var(--bone)" class="mono" x="480" y="188" font-size="10.5" letter-spacing="1" text-anchor="middle">ISUTC · computer science</text>
+    <circle cx="360" cy="125" r="4" fill="var(--bone)"/>
+    <line x1="360" y1="129" x2="360" y2="154" stroke="var(--rule)"/>
+    <text fill="var(--accent)" class="mono" x="360" y="172" font-size="11" letter-spacing="2" text-anchor="middle">2024</text>
+    <text fill="var(--bone)" class="mono" x="360" y="188" font-size="10.5" letter-spacing="1" text-anchor="middle">google cybersecurity cert</text>
   </g>
 
   <g class="m m3">
-    <circle cx="720" cy="125" r="4" fill="var(--bone)"/>
-    <line x1="720" y1="121" x2="720" y2="96" stroke="var(--rule)"/>
-    <text fill="var(--accent)" class="mono" x="720" y="74" font-size="11" letter-spacing="2" text-anchor="middle">2026</text>
-    <text fill="var(--bone)" class="mono" x="720" y="90" font-size="10.5" letter-spacing="1" text-anchor="middle">academic mentorship · security tooling</text>
+    <circle cx="560" cy="125" r="4" fill="var(--bone)"/>
+    <line x1="560" y1="121" x2="560" y2="96" stroke="var(--rule)"/>
+    <text fill="var(--accent)" class="mono" x="560" y="74" font-size="11" letter-spacing="2" text-anchor="middle">2025</text>
+    <text fill="var(--bone)" class="mono" x="560" y="90" font-size="10.5" letter-spacing="1" text-anchor="middle">ISUTC · computer science</text>
   </g>
 
   <g class="m m4">
-    <circle class="ring" cx="920" cy="125" r="4" stroke="var(--accent)" fill="none"/>
-    <circle class="pulse" cx="920" cy="125" r="4.5" fill="var(--accent)"/>
-    <line x1="920" y1="129" x2="920" y2="154" stroke="var(--rule)"/>
-    <text fill="var(--accent)" class="mono" x="920" y="172" font-size="11" letter-spacing="2" text-anchor="middle">NOW</text>
-    <text fill="var(--bone)" class="mono" x="920" y="188" font-size="10.5" letter-spacing="1" text-anchor="middle">2nd yr CS · open to opportunities</text>
+    <circle cx="760" cy="125" r="4" fill="var(--bone)"/>
+    <line x1="760" y1="129" x2="760" y2="154" stroke="var(--rule)"/>
+    <text fill="var(--accent)" class="mono" x="760" y="172" font-size="11" letter-spacing="2" text-anchor="middle">2026</text>
+    <text fill="var(--bone)" class="mono" x="760" y="188" font-size="10.5" letter-spacing="1" text-anchor="middle">academic mentorship · security tooling</text>
+  </g>
+
+  <g class="m m5">
+    <circle class="ring" cx="960" cy="125" r="4" stroke="var(--accent)" fill="none"/>
+    <circle class="pulse" cx="960" cy="125" r="4.5" fill="var(--accent)"/>
+    <line x1="960" y1="121" x2="960" y2="96" stroke="var(--rule)"/>
+    <text fill="var(--accent)" class="mono" x="960" y="74" font-size="11" letter-spacing="2" text-anchor="middle">NOW</text>
+    <text fill="var(--bone)" class="mono" x="960" y="90" font-size="10.5" letter-spacing="1" text-anchor="middle">2nd yr CS · open to opportunities</text>
   </g>
 </svg>
