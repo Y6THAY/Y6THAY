@@ -1,9 +1,12 @@
 <svg viewBox="0 0 1000 310" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GitHub statistics and repository languages">
   <style>
-    :root { --ink:#000000; }
-    .mono { font-family:ui-monospace,"SFMono-Regular","SF Mono",Menlo,Consolas,"Liberation Mono",monospace; fill:var(--ink); }
-    .panel,.rule,.bar { fill:none; stroke:var(--ink); stroke-width:1; }
-    .fill { fill:var(--ink); }
+    :root { 
+      --bone: #000000;
+      --rule: #000000;
+    }
+    .mono { font-family:ui-monospace,"SFMono-Regular","SF Mono",Menlo,Consolas,"Liberation Mono",monospace; fill:var(--bone); }
+    .panel,.rule,.bar { fill:none; stroke:var(--rule); stroke-width:1; }
+    .fill { fill:var(--bone); }
     .grow { transform:scaleX(0); transform-origin:left; animation:grow .8s cubic-bezier(.2,.7,.2,1) forwards; }
     .g2{animation-delay:.1s}.g3{animation-delay:.2s}.g4{animation-delay:.3s}.g5{animation-delay:.4s}
     @keyframes grow { to { transform:scaleX(1); } }
