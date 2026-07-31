@@ -1,14 +1,13 @@
 <svg viewBox="0 0 1000 680" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="System map: terminal tools, web and data platforms, iOS apps, research, all from one pipeline">
   <style>
     :root {
-      --bone: #444444; --muted: #888888; --dim: #AAAAAA; --rule: #C0C0C0;
-      --node-bg: #F0F0F0; --core-bg: #E8E8E8; --accent: #555555;
-    }
-    @media (prefers-color-scheme: dark) {
-      :root {
-        --bone: #DDDDDD; --muted: #777777; --dim: #666666; --rule: #444444;
-        --node-bg: #1A1A1A; --core-bg: #222222; --accent: #AAAAAA;
-      }
+      --bone: #000000; 
+      --muted: #000000; 
+      --dim: #000000; 
+      --rule: #000000;
+      --node-bg: transparent; 
+      --core-bg: transparent; 
+      --accent: #000000;
     }
     .mono { font-family: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
     .node { fill: none; stroke: var(--rule); stroke-width: 1; }
@@ -27,7 +26,6 @@
       .wire,.flow,.pop,.core { animation: none; }
       .wire{stroke-dashoffset:0} .pop{opacity:1} .flow{opacity:.1}
     }
-      :root { --bone: #000000; --muted: #000000; --dim: #000000; --rule: #000000; --accent: #000000; --node-bg: #FFFFFF; --core-bg: #FFFFFF; --ghost: #000000; }
   </style>
 
   <defs>
