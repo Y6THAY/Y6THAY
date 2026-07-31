@@ -1,0 +1,27 @@
+<svg viewBox="0 0 1000 236" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="whoami — bio, focus, status, mentorship">
+  <style>
+    :root { --bone: #444444; --rule: #C0C0C0; --muted: #888888; --dim: #AAAAAA; --accent: #555555; }
+    @media (prefers-color-scheme: dark) { :root { --bone: #DDDDDD; --rule: #444444; --muted: #777777; --dim: #666666; --accent: #AAAAAA; } }
+    .mono { font-family: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    .rise { opacity: 0; animation: rise .7s cubic-bezier(.2,.7,.2,1) forwards; }
+    @keyframes rise { from { opacity:0;transform:translateY(8px); } to { opacity:1;transform:translateY(0); } }
+    .a1{animation-delay:.1s} .a2{animation-delay:.2s} .a3{animation-delay:.35s} .a4{animation-delay:.5s} .a5{animation-delay:.65s} .a6{animation-delay:.8s}
+    @media (prefers-reduced-motion: reduce) { .rise { animation: none; opacity: 1; } }
+      :root { --bone: #000000; --muted: #000000; --dim: #000000; --rule: #000000; --accent: #000000; --node-bg: #FFFFFF; --core-bg: #FFFFFF; --ghost: #000000; }
+  </style>
+
+  <text class="mono rise a1" x="48" y="32" font-size="16" fill="var(--bone)">CS student &amp; academic mentor.</text>
+  <text class="mono rise a2" x="48" y="60" font-size="16" fill="var(--bone)">building across the stack — Python · Java · PostgreSQL · Bash · security tools.</text>
+  <text class="mono rise a3" x="48" y="88" font-size="15" fill="var(--muted)">drawn to systems security, automation, and clean architectural patterns.</text>
+
+  <line class="rise a4" x1="48" y1="116" x2="952" y2="116" stroke="var(--rule)" stroke-width="1" opacity=".5"/>
+
+  <text class="mono rise a4" x="48"  y="148" font-size="11" fill="var(--muted)" letter-spacing="2.5">FOCUS</text>
+  <text class="mono rise a4" x="154" y="148" font-size="15" fill="var(--bone)">Systems Security · Automation · Backend &amp; Databases · CLI Tooling</text>
+
+  <text class="mono rise a5" x="48"  y="182" font-size="11" fill="var(--muted)" letter-spacing="2.5">STATUS</text>
+  <text class="mono rise a5" x="154" y="182" font-size="15" fill="var(--accent)">open to internships · collaborative projects · security research</text>
+
+  <text class="mono rise a6" x="48"  y="216" font-size="11" fill="var(--muted)" letter-spacing="2.5">ROLE</text>
+  <text class="mono rise a6" x="154" y="216" font-size="15" fill="var(--bone)">Programming Fundamentals Mentor at ISUTC</text>
+</svg>

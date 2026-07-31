@@ -1,0 +1,32 @@
+<svg viewBox="0 0 1000 238" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Stack — languages, security, backend &amp; databases, automation, os &amp; environment, tooling">
+  <style>
+    :root { --bone: #444444; --rule: #C0C0C0; --muted: #888888; --accent: #555555; }
+    @media (prefers-color-scheme: dark) { :root { --bone: #DDDDDD; --rule: #444444; --muted: #777777; --dim: #666666; --accent: #AAAAAA; } }
+    .mono { font-family: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    .rise { opacity: 0; animation: rise .6s cubic-bezier(.2,.7,.2,1) forwards; }
+    @keyframes rise { from { opacity:0;transform:translateY(6px); } to { opacity:1;transform:translateY(0); } }
+    .a1{animation-delay:.1s} .a2{animation-delay:.2s} .a3{animation-delay:.3s} .a4{animation-delay:.4s} .a5{animation-delay:.5s} .a6{animation-delay:.6s}
+    @media (prefers-reduced-motion: reduce) { .rise { animation: none; opacity: 1; } }
+      :root { --bone: #000000; --muted: #000000; --dim: #000000; --rule: #000000; --accent: #000000; --node-bg: #FFFFFF; --core-bg: #FFFFFF; --ghost: #000000; }
+  </style>
+
+  <line x1="145" y1="8" x2="145" y2="200" stroke="var(--rule)" stroke-width="1" opacity=".4"/>
+
+  <text class="mono rise a1" x="48" y="32"  font-size="12" fill="var(--muted)" letter-spacing="2">LANGUAGES</text>
+  <text class="mono rise a1" x="154" y="32"  font-size="15" fill="var(--bone)">Python · Java · HTML · CSS · Bash</text>
+
+  <text class="mono rise a2" x="48" y="64"  font-size="12" fill="var(--muted)" letter-spacing="2">DATABASES</text>
+  <text class="mono rise a2" x="154" y="64"  font-size="15" fill="var(--bone)">MySQL · PostgreSQL · MongoDB</text>
+
+  <text class="mono rise a3" x="48" y="96"  font-size="12" fill="var(--muted)" letter-spacing="2">SECURITY</text>
+  <text class="mono rise a3" x="154" y="96"  font-size="15" fill="var(--bone)">Wireshark · Burp Suite</text>
+
+  <text class="mono rise a4" x="48" y="128" font-size="12" fill="var(--muted)" letter-spacing="2">AUTOMATION</text>
+  <text class="mono rise a4" x="154" y="128" font-size="15" fill="var(--bone)">n8n</text>
+
+  <text class="mono rise a5" x="48" y="160" font-size="12" fill="var(--muted)" letter-spacing="2">OS &amp; ENV</text>
+  <text class="mono rise a5" x="154" y="160" font-size="15" fill="var(--bone)">Linux · Kali · Arch · Debian · Windows · macOS · VirtualBox</text>
+
+  <text class="mono rise a6" x="48" y="192" font-size="12" fill="var(--muted)" letter-spacing="2">TOOLING</text>
+  <text class="mono rise a6" x="154" y="192" font-size="15" fill="var(--bone)">VS Code · Eclipse · Git · GitHub · Figma · Notion</text>
+</svg>

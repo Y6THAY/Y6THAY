@@ -1,0 +1,53 @@
+<svg viewBox="0 0 1000 400" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Yannich Thay Carlos — Cybersecurity &amp; Infrastructure Developer">
+  <style>
+    :root { --bone: #444444; --rule: #C0C0C0; --muted: #888888; --dim: #AAAAAA; --accent: #555555; }
+    @media (prefers-color-scheme: dark) { :root { --bone: #DDDDDD; --rule: #444444; --muted: #777777; --dim: #666666; --accent: #AAAAAA; } }
+    .mono { font-family: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    .draw { stroke-dasharray: 1000; stroke-dashoffset: 1000; animation: draw 1.4s cubic-bezier(.6,0,.2,1) forwards; }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+    .rise { opacity: 0; animation: rise .9s cubic-bezier(.2,.7,.2,1) forwards; }
+    @keyframes rise { from { opacity:0;transform:translateY(12px); } to { opacity:1;transform:translateY(0); } }
+    .fade { opacity: 0; animation: fade .7s ease forwards; }
+    @keyframes fade { to { opacity: 1; } }
+    .a1{animation-delay:.2s} .a2{animation-delay:.5s} .a3{animation-delay:.9s} .a4{animation-delay:1.2s} .a5{animation-delay:1.4s} .a6{animation-delay:1.7s}
+    .rot { opacity:0; animation: rot 12s linear infinite; }
+    .r1{animation-delay:1.7s} .r2{animation-delay:4.7s} .r3{animation-delay:7.7s} .r4{animation-delay:10.7s}
+    @keyframes rot { 0%{opacity:0} 1.5%{opacity:1} 18%{opacity:1} 20%{opacity:0} 100%{opacity:0} }
+    @media (prefers-reduced-motion: reduce) {
+      .draw,.rise,.fade,.rot { animation: none; }
+      .draw{stroke-dashoffset:0} .rise,.fade{opacity:1} .rot{opacity:0} .rot.r1{opacity:1}
+    }
+      :root { --bone: #000000; --muted: #000000; --dim: #000000; --rule: #000000; --accent: #000000; --node-bg: #FFFFFF; --core-bg: #FFFFFF; --ghost: #000000; }
+  </style>
+
+  <line class="draw a1" x1="48" y1="58" x2="952" y2="58" stroke="var(--rule)" stroke-width="1"/>
+  <g class="fade a1">
+    <text class="mono" fill="var(--muted)" x="48" y="44" font-size="11" letter-spacing="3.5">PORTFOLIO — INDEX Nº 001</text>
+    <text class="mono" fill="var(--muted)" x="952" y="44" font-size="11" letter-spacing="3.5" text-anchor="end">CYBERSECURITY</text>
+  </g>
+
+  <g class="rise a2">
+    <text fill="var(--bone)" class="mono" x="46" y="176" font-size="64" letter-spacing="-2">YANNICH THAY</text>
+  </g>
+  <g class="fade a3">
+    <text fill="var(--muted)" class="mono" x="48" y="214" font-size="19">Computer Science Student — Going all in on the cybersecurity iceberg.</text>
+  </g>
+
+  <g class="fade a4">
+  <text fill="var(--dim)" class="mono" x="48" y="274" font-size="12.5" letter-spacing="1">focus  ▸</text>
+  <text fill="var(--accent)" class="mono" x="128" y="274" font-size="12.5" letter-spacing="1">cloud security · automation · systems architecture · threat detection</text>
+  </g>
+  <g class="fade a5">
+    <text fill="var(--dim)" class="mono" x="48" y="300" font-size="12.5" letter-spacing="1">open to cybersecurity roles · internships · community collaboration</text>
+  </g>
+
+  <line class="draw a5" x1="48" y1="342" x2="952" y2="342" stroke="var(--rule)" stroke-width="1"/>
+  <g class="fade a6">
+    <text fill="var(--muted)" class="mono" x="48" y="374" font-size="11.5" letter-spacing="3">AUTOMATION &amp; SYSTEMS</text>
+    <text fill="var(--accent)" class="mono" x="252" y="374" font-size="11.5">·</text>
+    <text fill="var(--muted)" class="mono" x="282" y="374" font-size="11.5" letter-spacing="3">CLOUD SECURITY</text>
+    <text fill="var(--accent)" class="mono" x="460" y="374" font-size="11.5">·</text>
+    <text fill="var(--muted)" class="mono" x="490" y="374" font-size="11.5" letter-spacing="3">ARCHITECTURE</text>
+    <text fill="var(--muted)" class="mono" x="952" y="374" font-size="11.5" letter-spacing="3" text-anchor="end">CS — 2025 / PRESENT</text>
+  </g>
+</svg>

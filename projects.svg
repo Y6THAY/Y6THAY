@@ -1,0 +1,37 @@
+<svg viewBox="0 0 1000 390" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Projects by Yannich Carlos">
+  <style>
+    :root { --ink:#000000; --paper:#FFFFFF; }
+    @media (prefers-color-scheme:dark) { :root { --ink:#FFFFFF; --paper:#000000; } }
+    .mono { font-family:ui-monospace,"SFMono-Regular","SF Mono",Menlo,Consolas,"Liberation Mono",monospace; }
+    .row { opacity:0; animation:reveal .55s cubic-bezier(.2,.7,.2,1) forwards; }
+    .rule { stroke:var(--ink); stroke-width:1; }
+    .title { fill:var(--ink); font-size:17px; font-weight:700; letter-spacing:.8px; }
+    .copy { fill:var(--ink); font-size:12px; }
+    .meta { fill:var(--ink); font-size:11px; letter-spacing:.4px; }
+    @keyframes reveal { from { opacity:0; } to { opacity:1; } }
+    .r1{animation-delay:.05s}.r2{animation-delay:.10s}.r3{animation-delay:.15s}
+    @media (prefers-reduced-motion:reduce) { .row { animation:none; opacity:1; } }
+    :root { --ink:#000000; --paper:#FFFFFF; }
+  </style>
+
+  <g class="mono">
+    <g class="row r1" transform="translate(0 20)">
+      <text class="title" x="48" y="24">01 / PYTHON PORT SCANNER</text>
+      <text class="copy" x="48" y="49">Multi-threaded TCP port scanner and banner grabber equipped with an interactive CLI.</text>
+      <text class="meta" x="48" y="74">PYTHON · MULTI-THREADING · TCP · CLI</text>
+      <line class="rule" x1="48" y1="91" x2="952" y2="91"/>
+    </g>
+    <g class="row r2" transform="translate(0 130)">
+      <text class="title" x="48" y="24">02 / NETWORK TRAFFIC ANALYZER</text>
+      <text class="copy" x="48" y="49">In Development: Packet capture, protocol analysis, and traffic visualization built in Python.</text>
+      <text class="meta" x="48" y="74">PYTHON · PACKET CAPTURE · PROTOCOL ANALYSIS · VISUALIZATION</text>
+      <line class="rule" x1="48" y1="91" x2="952" y2="91"/>
+    </g>
+    <g class="row r3" transform="translate(0 240)">
+      <text class="title" x="48" y="24">03 / SOS SYSTEM</text>
+      <text class="copy" x="48" y="49">In Development: Community flood response platform for mapping safe routes and alerting emergency services.</text>
+      <text class="meta" x="48" y="74">COMMUNITY ALERT · MAPPING · EMERGENCY SERVICES</text>
+      <line class="rule" x1="48" y1="91" x2="952" y2="91"/>
+    </g>
+  </g>
+</svg>
