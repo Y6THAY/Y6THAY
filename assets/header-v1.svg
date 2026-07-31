@@ -1,7 +1,12 @@
 <svg viewBox="0 0 1000 400" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Yannich Thay Carlos — Cybersecurity &amp; Infrastructure Developer">
   <style>
-    :root { --bone: #444444; --rule: #C0C0C0; --muted: #888888; --dim: #AAAAAA; --accent: #555555; }
-    @media (prefers-color-scheme: dark) { :root { --bone: #DDDDDD; --rule: #444444; --muted: #777777; --dim: #666666; --accent: #AAAAAA; } }
+    :root { 
+      --bone: #000000; 
+      --rule: #000000; 
+      --muted: #000000; 
+      --dim: #000000; 
+      --accent: #000000; 
+    }
     .mono { font-family: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
     .draw { stroke-dasharray: 1000; stroke-dashoffset: 1000; animation: draw 1.4s cubic-bezier(.6,0,.2,1) forwards; }
     @keyframes draw { to { stroke-dashoffset: 0; } }
@@ -17,7 +22,6 @@
       .draw,.rise,.fade,.rot { animation: none; }
       .draw{stroke-dashoffset:0} .rise,.fade{opacity:1} .rot{opacity:0} .rot.r1{opacity:1}
     }
-      :root { --bone: #000000; --muted: #000000; --dim: #000000; --rule: #000000; --accent: #000000; --node-bg: #FFFFFF; --core-bg: #FFFFFF; --ghost: #000000; }
   </style>
 
   <line class="draw a1" x1="48" y1="58" x2="952" y2="58" stroke="var(--rule)" stroke-width="1"/>
@@ -30,12 +34,11 @@
     <text fill="var(--bone)" class="mono" x="46" y="176" font-size="64" letter-spacing="-2">YANNICH THAY</text>
   </g>
   <g class="fade a3">
-    <text fill="var(--muted)" class="mono" x="48" y="214" font-size="19">Computer Science Student — Going all in on the cybersecurity iceberg.</text>
+    <text fill="var(--muted)" class="mono" x="48" y="214" font-size="19">Computer Science Student — Diving deep into the world of cybersecurity.</text>
   </g>
 
   <g class="fade a4">
-  <text fill="var(--dim)" class="mono" x="48" y="274" font-size="12.5" letter-spacing="1">focus  ▸</text>
-  <text fill="var(--accent)" class="mono" x="128" y="274" font-size="12.5" letter-spacing="1">cloud security · automation · systems architecture · threat detection</text>
+    <text fill="var(--accent)" class="mono" x="48" y="274" font-size="12.5" letter-spacing="1">cloud security · automation · systems architecture · threat detection</text>
   </g>
   <g class="fade a5">
     <text fill="var(--dim)" class="mono" x="48" y="300" font-size="12.5" letter-spacing="1">open to cybersecurity roles · internships · community collaboration</text>
