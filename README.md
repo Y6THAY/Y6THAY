@@ -3,7 +3,7 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/header-v1.svg"/><img src="assets/header-v1.svg" alt="Yannich Thay"/></picture>
 
 <a href="https://github.com/Y6THAY"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GITHUB-0d1117?style=flat-square&logo=github&logoColor=ffffff"/><img src="https://img.shields.io/badge/GITHUB-ffffff?style=flat-square&logo=github&logoColor=000000" alt="GitHub"/></picture></a>
-<a href="https://www.linkedin.com/in/yannich-thay-carlos/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LINKEDIN-0d1117?style=flat-square&logo=linkedin&logoColor=ffffff"/><img src="https://img.shields.io/badge/LINKEDIN-ffffff?style=flat-square&logo=linkedin&logoColor=000000" alt="LinkedIn"/></picture></a>
+<a href="https://www.linkedin.com/in/yannich-thay/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LINKEDIN-0d1117?style=flat-square&logo=linkedin&logoColor=ffffff"/><img src="https://img.shields.io/badge/LINKEDIN-ffffff?style=flat-square&logo=linkedin&logoColor=000000" alt="LinkedIn"/></picture></a>
 <a href="mailto:yannich6thay@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/EMAIL-0d1117?style=flat-square"/><img src="https://img.shields.io/badge/EMAIL-ffffff?style=flat-square" alt="Email"/></picture></a>
 
 </div>
