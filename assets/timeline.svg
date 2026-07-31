@@ -1,11 +1,13 @@
- <svg viewBox="0 0 1200 250" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Timeline: 2023 first commit, 2024 google cybersecurity cert, 2025 ISUTC computer science, 2026 academic mentorship, now open to opportunities">
+<svg viewBox="0 0 1200 250" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Timeline: 2023 first commit, 2024 google cybersecurity cert, 2025 ISUTC computer science, 2026 academic mentorship, now open to opportunities">
   <style>
     :root { 
-      --rule: #FFFFFF; 
-      --muted: #FFFFFF; 
-      --accent: #FFFFFF; 
-      --ghost: #FFFFFF; 
-    }o { font-family: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+      --bone: #000000; 
+      --muted: #000000; 
+      --dim: #000000; 
+      --rule: #000000; 
+      --accent: #000000; 
+    }
+    .mono { font-family: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
     .axis { stroke: var(--rule); stroke-width: 1; stroke-dasharray: 1110; stroke-dashoffset: 1110; animation: draw 2.4s cubic-bezier(.6,0,.2,1) forwards; }
     @keyframes draw { to { stroke-dashoffset: 0; } }
     .m { opacity: 0; animation: rise .7s cubic-bezier(.2,.7,.2,1) forwards; }
