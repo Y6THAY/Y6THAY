@@ -1,7 +1,11 @@
-<svg viewBox="0 0 1000 110" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Status: building. Bragança, Portugal. Y6Thay">
+<svg viewBox="0 0 1000 110" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Status: building. Maputo, Mozambique. Y6Thay">
   <style>
-    :root { --bone: #444444; --muted: #888888; --rule: #C0C0C0; --accent: #555555; }
-    @media (prefers-color-scheme: dark) { :root { --bone: #DDDDDD; --muted: #777777; --rule: #444444; --accent: #AAAAAA; } }
+    :root { 
+      --bone: #000000; 
+      --muted: #000000; 
+      --rule: #000000; 
+      --accent: #000000; 
+    }
     .mono { font-family: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
     .draw { stroke: var(--rule); stroke-width: 1; stroke-dasharray: 1000; stroke-dashoffset: 1000; animation: d 1.6s cubic-bezier(.6,0,.2,1) forwards; }
     @keyframes d { to { stroke-dashoffset: 0; } }
@@ -10,7 +14,6 @@
     @keyframes p { 0%,100%{opacity:1} 50%{opacity:.35} }
     @keyframes r { 0%{transform:scale(.4);opacity:.8} 80%,100%{transform:scale(2.6);opacity:0} }
     @media (prefers-reduced-motion: reduce) { .draw,.dot,.ring{animation:none} .draw{stroke-dashoffset:0} .ring{opacity:0} }
-      :root { --bone: #000000; --muted: #000000; --dim: #000000; --rule: #000000; --accent: #000000; --node-bg: #FFFFFF; --core-bg: #FFFFFF; --ghost: #000000; }
   </style>
   <line class="draw" x1="48" y1="24" x2="952" y2="24"/>
   <circle class="ring" cx="60" cy="64" r="5" stroke="var(--accent)" stroke-width="1" fill="none"/>
