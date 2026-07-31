@@ -1,0 +1,45 @@
+<svg viewBox="0 0 1000 370" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Experience — Build &amp; Learn ITs, Academic Mentor, Google Certifications, Computer Science">
+  <style>
+    :root { 
+      --bone: #FFFFFF; 
+      --rule: #FFFFFF; 
+      --muted: #FFFFFF; 
+      --dim: #FFFFFF; 
+      --accent: #FFFFFF; 
+    }
+    .mono { font-family: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    .rise { opacity: 0; animation: rise .7s cubic-bezier(.2,.7,.2,1) forwards; }
+    @keyframes rise { from { opacity:0;transform:translateY(8px); } to { opacity:1;transform:translateY(0); } }
+    .a1{animation-delay:.15s} .a2{animation-delay:.35s} .a3{animation-delay:.55s} .a4{animation-delay:.75s}
+    @media (prefers-reduced-motion: reduce) { .rise { animation: none; opacity: 1; } }
+  </style>
+
+  <line x1="120" y1="10" x2="120" y2="360" stroke="var(--rule)" stroke-width="1" opacity=".4"/>
+
+  <g class="rise a1">
+    <text class="mono" x="48" y="42"  font-size="12" fill="var(--accent)" letter-spacing="2">2026 –</text>
+    <text class="mono" x="136" y="42"  font-size="15" fill="var(--bone)">Build &amp; Learn ITs · Active Student Member</text>
+    <text class="mono" x="136" y="68"  font-size="14" fill="var(--muted)">engaging with a dynamic tech community focused on collaborative growth</text>
+    <text class="mono" x="136" y="90"  font-size="14" fill="var(--muted)">building practical skills alongside ambitious peers and professionals</text>
+  </g>
+
+  <g class="rise a2">
+    <text class="mono" x="48" y="138" font-size="12" fill="var(--accent)" letter-spacing="2">2026</text>
+    <text class="mono" x="136" y="138" font-size="15" fill="var(--bone)">Programming Fundamentals · Teaching Assistant &amp; Mentor · Mar–Jun</text>
+    <text class="mono" x="136" y="164" font-size="14" fill="var(--muted)">guided students in building a strong foundation in CS and logical thinking</text>
+    <text class="mono" x="136" y="186" font-size="14" fill="var(--muted)">promoted critical thinking, debugging skills, and clean coding standards</text>
+  </g>
+
+  <g class="rise a3">
+    <text class="mono" x="48" y="234" font-size="12" fill="var(--accent)" letter-spacing="2">2026</text>
+    <text class="mono" x="136" y="234" font-size="15" fill="var(--bone)">Google Cybersecurity Professional · Certification Track</text>
+    <text class="mono" x="136" y="260" font-size="14" fill="var(--muted)">cloud infrastructure defense · risk management · incident response operations</text>
+    <text class="mono" x="136" y="282" font-size="14" fill="var(--muted)">applied NIST framework · CISSP security domains · CIA triad principles</text>
+  </g>
+
+  <g class="rise a4">
+    <text class="mono" x="48" y="330" font-size="12" fill="var(--accent)" letter-spacing="2">2025 –</text>
+    <text class="mono" x="136" y="330" font-size="15" fill="var(--bone)">Computer Science Student</text>
+    <text class="mono" x="136" y="356" font-size="14" fill="var(--muted)">this is where my passion for technology and logic truly locked in</text>
+  </g>
+</svg>

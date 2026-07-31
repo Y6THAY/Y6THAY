@@ -1,0 +1,27 @@
+<svg viewBox="0 0 1000 64" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Now: Computer Science student, cybersecurity &amp; systems architecture, going all in on the cybersecurity iceberg">
+  <style>
+    :root { 
+      --bone: #FFFFFF; 
+      --rule: #FFFFFF; 
+      --accent: #FFFFFF; 
+    }
+    .mono { font-family: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    .belt { animation: belt 36s linear infinite; }
+    @keyframes belt { from{transform:translateX(0)} to{transform:translateX(-1560px)} }
+    .dot { animation: pulse 2.4s ease-in-out infinite; }
+    @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:.25} }
+    @media (prefers-reduced-motion: reduce) { .belt,.dot { animation: none; } }
+  </style>
+
+  <line x1="0" y1="0.5" x2="1000" y2="0.5" stroke="var(--rule)"/>
+  <line x1="0" y1="63.5" x2="1000" y2="63.5" stroke="var(--rule)"/>
+
+  <g class="belt">
+    <text class="mono" x="60" y="38" font-size="13" letter-spacing="2">
+      <tspan fill="var(--accent)">NOW&#160;&#160;&#9656;&#160;&#160;</tspan><tspan fill="var(--bone)">COMPUTER SCIENCE STUDENT</tspan><tspan fill="var(--accent)">&#160;&#160;&#160;&#10038;&#160;&#160;&#160;</tspan><tspan fill="var(--bone)">CYBERSECURITY</tspan><tspan fill="var(--accent)">&#160;&#160;&#160;&#10038;&#160;&#160;&#160;</tspan><tspan fill="var(--bone)">AUTOMATION &amp; SYSTEMS ARCHITECTURE</tspan><tspan fill="var(--accent)">&#160;&#160;&#160;&#10038;&#160;&#160;&#160;</tspan><tspan fill="var(--bone)">OPEN TO ROLES &amp; INTERNSHIPS</tspan><tspan fill="var(--accent)">&#160;&#160;&#160;&#10038;&#160;&#160;&#160;</tspan>
+    </text>
+    <text class="mono" x="1620" y="38" font-size="13" letter-spacing="2">
+      <tspan fill="var(--accent)">NOW&#160;&#160;&#9656;&#160;&#160;</tspan><tspan fill="var(--bone)">COMPUTER SCIENCE STUDENT</tspan><tspan fill="var(--accent)">&#160;&#160;&#160;&#10038;&#160;&#160;&#160;</tspan><tspan fill="var(--bone)">CYBERSECURITY</tspan><tspan fill="var(--accent)">&#160;&#160;&#160;&#10038;&#160;&#160;&#160;</tspan><tspan fill="var(--bone)">AUTOMATION &amp; SYSTEMS ARCHITECTURE</tspan><tspan fill="var(--accent)">&#160;&#160;&#160;&#10038;&#160;&#160;&#160;</tspan><tspan fill="var(--bone)">OPEN TO ROLES &amp; INTERNSHIPS</tspan><tspan fill="var(--accent)">&#160;&#160;&#160;&#10038;&#160;&#160;&#160;</tspan>
+    </text>
+  </g>
+</svg>
