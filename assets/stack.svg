@@ -1,13 +1,16 @@
 <svg viewBox="0 0 1000 238" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Stack — languages, security, backend &amp; databases, automation, os &amp; environment, tooling">
   <style>
-    :root { --bone: #444444; --rule: #C0C0C0; --muted: #888888; --accent: #555555; }
-    @media (prefers-color-scheme: dark) { :root { --bone: #DDDDDD; --rule: #444444; --muted: #777777; --dim: #666666; --accent: #AAAAAA; } }
+    :root { 
+      --bone: #000000; 
+      --rule: #000000; 
+      --muted: #000000; 
+      --accent: #000000; 
+    }
     .mono { font-family: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
     .rise { opacity: 0; animation: rise .6s cubic-bezier(.2,.7,.2,1) forwards; }
     @keyframes rise { from { opacity:0;transform:translateY(6px); } to { opacity:1;transform:translateY(0); } }
     .a1{animation-delay:.1s} .a2{animation-delay:.2s} .a3{animation-delay:.3s} .a4{animation-delay:.4s} .a5{animation-delay:.5s} .a6{animation-delay:.6s}
     @media (prefers-reduced-motion: reduce) { .rise { animation: none; opacity: 1; } }
-      :root { --bone: #000000; --muted: #000000; --dim: #000000; --rule: #000000; --accent: #000000; --node-bg: #FFFFFF; --core-bg: #FFFFFF; --ghost: #000000; }
   </style>
 
   <line x1="145" y1="8" x2="145" y2="200" stroke="var(--rule)" stroke-width="1" opacity=".4"/>
