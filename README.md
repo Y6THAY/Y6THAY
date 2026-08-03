@@ -5,6 +5,7 @@
 <a href="https://github.com/Y6THAY"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GITHUB-0d1117?style=flat-square&logo=github&logoColor=ffffff"/><img src="https://img.shields.io/badge/GITHUB-ffffff?style=flat-square&logo=github&logoColor=000000" alt="GitHub"/></picture></a>
 <a href="https://www.linkedin.com/in/yannich-thay/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LINKEDIN-0d1117?style=flat-square&logo=linkedin&logoColor=ffffff"/><img src="https://img.shields.io/badge/LINKEDIN-ffffff?style=flat-square&logo=linkedin&logoColor=000000" alt="LinkedIn"/></picture></a>
 <a href="mailto:yannich6thay@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/EMAIL-0d1117?style=flat-square"/><img src="https://img.shields.io/badge/EMAIL-ffffff?style=flat-square" alt="Email"/></picture></a>
+<a href="https://yannich.6thay.workers.dev/" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/WEBSITE-0d1117?style=flat-square&logo=globe&logoColor=ffffff"/><img src="https://img.shields.io/badge/WEBSITE-ffffff?style=flat-square&logo=globe&logoColor=000000" alt="Website"/></picture></a>
 <a href="Yannich_Thay_Resume.pdf" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/RESUME-0d1117?style=flat-square&logo=adobeacrobatreader&logoColor=ffffff"/><img src="https://img.shields.io/badge/RESUME-ffffff?style=flat-square&logo=adobeacrobatreader&logoColor=000000" alt="Resume"/></picture></a>
 
 </div>
@@ -18,8 +19,6 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s03.svg"/><img src="assets/s03.svg" alt="03 — projects"/></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/projects.svg"/><img src="assets/projects.svg" alt="Projects list"/></picture>
 
-</div>
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s04.svg"/><img src="assets/s04.svg" alt="05 — the route"/></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/timeline.svg"/><img src="assets/timeline.svg" alt="Development timeline"/></picture>
 
@@ -27,5 +26,3 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/stack.svg"/><img src="assets/stack.svg" alt="Technical stack"/></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/footer.svg"/><img src="assets/footer.svg" alt="Current status"/></picture>
-
-<!-- one responsive picture per visual; no duplicate light/dark rendering -->
