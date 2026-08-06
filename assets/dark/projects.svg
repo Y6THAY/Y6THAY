@@ -21,7 +21,7 @@
     </g>
     <g class="row r2" transform="translate(0 130)">
       <text class="title" x="48" y="24">02 / NETWORK TRAFFIC ANALYZER</text>
-      <text class="copy" x="48" y="49">In Development: Packet capture, protocol analysis, and traffic visualization built in Python.</text>
+      <text class="copy" x="48" y="49">Packet capture, protocol analysis, and traffic visualization built in Python.</text>
       <text class="meta" x="48" y="74">PYTHON · PACKET CAPTURE · PROTOCOL ANALYSIS · VISUALIZATION</text>
       <line class="rule" x1="48" y1="91" x2="952" y2="91"/>
     </g>
