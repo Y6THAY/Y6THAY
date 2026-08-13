@@ -1,4 +1,4 @@
-<svg viewBox="0 0 1000 390" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Projects by Yannich Carlos">
+<svg viewBox="0 0 1000 500" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Projects by Yannich Carlos">
   <style>
     /* New style rules with black colors directly and transparent background maintained */
     .mono { font-family:ui-monospace,"SFMono-Regular","SF Mono",Menlo,Consolas,"Liberation Mono",monospace; }
@@ -8,7 +8,7 @@
     .copy { fill:#000000; font-size:12px; } /* Change to black */
     .meta { fill:#000000; font-size:11px; letter-spacing:.4px; } /* Change to black */
     @keyframes reveal { from { opacity:0; } to { opacity:1; } }
-    .r1{animation-delay:.05s}.r2{animation-delay:.10s}.r3{animation-delay:.15s}
+    .r1{animation-delay:.05s}.r2{animation-delay:.10s}.r3{animation-delay:.15s}.r4{animation-delay:.20s}
     @media (prefers-reduced-motion:reduce) { .row { animation:none; opacity:1; } }
   </style>
 
@@ -29,6 +29,12 @@
       <text class="title" x="48" y="24">03 / SOS SYSTEM</text>
       <text class="copy" x="48" y="49">In Development: Community flood response platform for mapping safe routes and alerting emergency services.</text>
       <text class="meta" x="48" y="74">COMMUNITY ALERT · MAPPING · EMERGENCY SERVICES</text>
+      <line class="rule" x1="48" y1="91" x2="952" y2="91"/>
+    </g>
+    <g class="row r4" transform="translate(0 350)">
+      <text class="title" x="48" y="24">04 / CYBER NEWS SCRAPPER</text>
+      <text class="copy" x="48" y="49">Automated threat intelligence pipeline scraping cyber news, deduplicating via SQLite, and emailing HTML summaries.</text>
+      <text class="meta" x="48" y="74">PYTHON · THREAT INTELLIGENCE · SQLITE · GITHUB ACTIONS</text>
       <line class="rule" x1="48" y1="91" x2="952" y2="91"/>
     </g>
   </g>
