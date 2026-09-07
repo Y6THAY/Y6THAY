@@ -49,10 +49,10 @@
   <line class="draw a5" x1="48" y1="342" x2="952" y2="342" stroke="var(--rule)" stroke-width="1"/>
   <g class="fade a6">
     <text fill="var(--muted)" class="mono" x="48" y="374" font-size="11.5" letter-spacing="3">AUTOMATION &amp; SYSTEMS</text>
-    <text fill="var(--accent)" class="mono" x="252" y="374" font-size="11.5">·</text>
-    <text fill="var(--muted)" class="mono" x="282" y="374" font-size="11.5" letter-spacing="3">CLOUD SECURITY</text>
-    <text fill="var(--accent)" class="mono" x="460" y="374" font-size="11.5">·</text>
-    <text fill="var(--muted)" class="mono" x="490" y="374" font-size="11.5" letter-spacing="3">ARCHITECTURE</text>
-    <text fill="var(--muted)" class="mono" x="952" y="374" font-size="11.5" letter-spacing="3" text-anchor="end">CS — 2025 / PRESENT</text>
+    <text fill="var(--accent)" class="mono" x="260" y="374" font-size="11.5">·</text>
+    <text fill="var(--muted)" class="mono" x="282" y="374" font-size="11.5" letter-spacing="3">CYBERSECURITY</text>
+    <text fill="var(--accent)" class="mono" x="425" y="374" font-size="11.5">·</text>
+    <text fill="var(--muted)" class="mono" x="450" y="374" font-size="11.5" letter-spacing="3">ARCHITECTURE</text>
+    <text fill="var(--muted)" class="mono" x="952" y="374" font-size="11.5" letter-spacing="3" text-anchor="end">Electronics & Computer - PRESENT</text>
   </g>
 </svg>
