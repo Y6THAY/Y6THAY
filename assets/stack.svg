@@ -16,7 +16,7 @@
   <line x1="145" y1="8" x2="145" y2="200" stroke="var(--rule)" stroke-width="1" opacity=".4"/>
 
   <text class="mono rise a1" x="48" y="32"  font-size="12" fill="var(--muted)" letter-spacing="2">LANGUAGES</text>
-  <text class="mono rise a1" x="154" y="32"  font-size="15" fill="var(--bone)">Python · Java · HTML · CSS · Bash</text>
+  <text class="mono rise a1" x="154" y="32"  font-size="15" fill="var(--bone)">Python · Java · HTML · CSS </text>
 
   <text class="mono rise a2" x="48" y="64"  font-size="12" fill="var(--muted)" letter-spacing="2">DATABASES</text>
   <text class="mono rise a2" x="154" y="64"  font-size="15" fill="var(--bone)">MySQL · PostgreSQL · MongoDB</text>
