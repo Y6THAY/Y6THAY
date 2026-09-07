@@ -61,6 +61,6 @@
     <circle class="pulse" cx="960" cy="125" r="4.5" fill="var(--accent)"/>
     <line x1="960" y1="121" x2="960" y2="96" stroke="var(--rule)"/>
     <text fill="var(--accent)" class="mono" x="960" y="74" font-size="11" letter-spacing="2" text-anchor="middle">NOW</text>
-    <text fill="var(--bone)" class="mono" x="960" y="90" font-size="10.5" letter-spacing="1" text-anchor="middle">2nd yr CS · open to opportunities</text>
+    <text fill="var(--bone)" class="mono" x="960" y="90" font-size="10.5" letter-spacing="1" text-anchor="middle">UPB · engineering </text>
   </g>
 </svg>
