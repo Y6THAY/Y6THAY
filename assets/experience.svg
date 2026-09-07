@@ -18,9 +18,8 @@
 
   <g class="rise a1">
     <text class="mono" x="48" y="42"  font-size="12" fill="var(--accent)" letter-spacing="2">2026 –</text>
-    <text class="mono" x="136" y="42"  font-size="15" fill="var(--bone)">Build &amp; Learn ITs · Active Student Member</text>
-    <text class="mono" x="136" y="68"  font-size="14" fill="var(--muted)">engaging with a dynamic tech community focused on collaborative growth</text>
-    <text class="mono" x="136" y="90"  font-size="14" fill="var(--muted)">building practical skills alongside ambitious peers and professionals</text>
+    <text class="mono" x="136" y="42"  font-size="15" fill="var(--bone)">Electrotechnical & Computer Engineering (NOW)</text>
+    <text class="mono" x="136" y="68"  font-size="14" fill="var(--muted)">bridging hardware and software for defensive security</text>
   </g>
 
   <g class="rise a2">
@@ -32,7 +31,7 @@
 
   <g class="rise a3">
     <text class="mono" x="48" y="234" font-size="12" fill="var(--accent)" letter-spacing="2">2026</text>
-    <text class="mono" x="136" y="234" font-size="15" fill="var(--bone)">Google Cybersecurity Professional · Certification Track</text>
+    <text class="mono" x="136" y="234" font-size="15" fill="var(--bone)">Google Cybersecurity Professional · Certification</text>
     <text class="mono" x="136" y="260" font-size="14" fill="var(--muted)">cloud infrastructure defense · risk management · incident response operations</text>
     <text class="mono" x="136" y="282" font-size="14" fill="var(--muted)">applied NIST framework · CISSP security domains · CIA triad principles</text>
   </g>
