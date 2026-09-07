@@ -1,4 +1,4 @@
-<svg viewBox="0 0 1000 680" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="System map: terminal tools, web and data platforms, iOS apps, research, all from one pipeline">
+<svg viewBox="0 0 1000 680" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="System map: terminal tools, web and data platforms, hardware integration, research, all from one pipeline">
   <style>
     :root {
       --bone: #000000; 
@@ -86,7 +86,7 @@
   <text fill="var(--accent)" class="mono pop p10" x="512" y="60" font-size="10" letter-spacing="3" text-anchor="middle">THREAT DETECTION</text>
   <text fill="var(--accent)" class="mono pop p10" x="845" y="142" font-size="10" letter-spacing="3" text-anchor="middle">OFFENSIVE SEC</text>
   <text fill="var(--accent)" class="mono pop p10" x="500" y="603" font-size="10" letter-spacing="3" text-anchor="middle">INFRASTRUCTURE</text>
-  <text fill="var(--accent)" class="mono pop p10" x="500" y="625" font-size="10" letter-spacing="3" text-anchor="middle">COMMUNITY &amp; MENTORSHIP</text>
+  <text fill="var(--accent)" class="mono pop p10" x="500" y="625" font-size="10" letter-spacing="3" text-anchor="middle">HARDWARE &amp; SYSTEMS</text>
 
   <!-- core -->
   <g class="pop p0">
@@ -106,10 +106,10 @@
   <g class="pop p8"><rect class="node" x="270" y="438" width="180" height="54" rx="2"/><text fill="var(--bone)" class="mono" x="360" y="461" font-size="12" letter-spacing="1" text-anchor="middle">system hardening</text><text fill="var(--muted)" class="mono" x="360" y="480" font-size="9" letter-spacing="1" text-anchor="middle">Linux CLI &amp; Bash</text></g>
   <g class="pop p9"><rect class="node" x="630" y="393" width="180" height="54" rx="2"/><text fill="var(--bone)" class="mono" x="720" y="416" font-size="12" letter-spacing="1" text-anchor="middle">SOS system dev</text><text fill="var(--muted)" class="mono" x="720" y="435" font-size="9" letter-spacing="1" text-anchor="middle">community alert map</text></g>
 
-  <!-- new nodes: internship + research cluster at bottom -->
+  <!-- bottom nodes: docker, academic mentor, electrotechnical engineering @ ipb -->
   <g class="pop p11"><rect class="node" x="100" y="554" width="180" height="54" rx="2"/><text fill="var(--bone)" class="mono" x="190" y="577" font-size="12" letter-spacing="1" text-anchor="middle">docker pipeline</text><text fill="var(--muted)" class="mono" x="190" y="596" font-size="9" letter-spacing="1" text-anchor="middle">container security</text></g>
   <g class="pop p12"><rect class="node" x="410" y="525" width="180" height="54" rx="2"/><text fill="var(--bone)" class="mono" x="500" y="548" font-size="12" letter-spacing="1" text-anchor="middle">academic mentor</text><text fill="var(--muted)" class="mono" x="500" y="567" font-size="9" letter-spacing="1" text-anchor="middle">CS logical foundations</text></g>
-  <g class="pop p13"><rect class="node" x="720" y="554" width="180" height="54" rx="2"/><text fill="var(--bone)" class="mono" x="810" y="577" font-size="12" letter-spacing="1" text-anchor="middle">Build &amp; Learn ITs</text><text fill="var(--muted)" class="mono" x="810" y="596" font-size="9" letter-spacing="1" text-anchor="middle">active community lead</text></g>
+  <g class="pop p13"><rect class="node" x="720" y="554" width="180" height="54" rx="2"/><text fill="var(--bone)" class="mono" x="810" y="577" font-size="12" letter-spacing="1" text-anchor="middle">electrotechnical UPB</text><text fill="var(--muted)" class="mono" x="810" y="596" font-size="9" letter-spacing="1" text-anchor="middle">hardware &amp; systems layer</text></g>
 
   <line x1="48" y1="650" x2="952" y2="650" stroke="var(--rule)"/>
   <text fill="var(--dim)" class="mono" x="952" y="672" font-size="10" letter-spacing="2" text-anchor="end">DASHED LINES — DATA IN MOTION</text>
