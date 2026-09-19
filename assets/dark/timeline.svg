@@ -1,11 +1,11 @@
 <svg viewBox="0 0 1200 250" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Timeline: 2023 first commit, 2024 google cybersecurity cert, 2025 ISUTC computer science, 2026 academic mentorship, now open to opportunities">
   <style>
     :root { 
-      --bone: #FFFFFF; 
-      --muted: #FFFFFF; 
-      --dim: #FFFFFF; 
-      --rule: #FFFFFF; 
-      --accent: #FFFFFF; 
+      --bone: #ffffff; 
+      --muted: #ffffff; 
+      --dim: #ffffff; 
+      --rule: #ffffff; 
+      --accent: #ffffff; 
     }
     .mono { font-family: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
     .axis { stroke: var(--rule); stroke-width: 1; stroke-dasharray: 1110; stroke-dashoffset: 1110; animation: draw 2.4s cubic-bezier(.6,0,.2,1) forwards; }
@@ -61,6 +61,6 @@
     <circle class="pulse" cx="960" cy="125" r="4.5" fill="var(--accent)"/>
     <line x1="960" y1="121" x2="960" y2="96" stroke="var(--rule)"/>
     <text fill="var(--accent)" class="mono" x="960" y="74" font-size="11" letter-spacing="2" text-anchor="middle">NOW</text>
-    <text fill="var(--bone)" class="mono" x="960" y="90" font-size="10.5" letter-spacing="1" text-anchor="middle">2nd yr CS · open to opportunities</text>
+    <text fill="var(--bone)" class="mono" x="960" y="90" font-size="10.5" letter-spacing="1" text-anchor="middle">UPB · engineering </text>
   </g>
 </svg>
