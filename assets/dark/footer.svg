@@ -1,10 +1,10 @@
 <svg viewBox="0 0 1000 110" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Status: building. Maputo, Mozambique. Y6Thay">
   <style>
     :root { 
-      --bone: #FFFFFF; 
-      --muted: #FFFFFF; 
-      --rule: #FFFFFF; 
-      --accent: #FFFFFF; 
+      --bone: #ffffff; 
+      --muted: #ffffff; 
+      --rule: #ffffff; 
+      --accent: #ffffff; 
     }
     .mono { font-family: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
     .draw { stroke: var(--rule); stroke-width: 1; stroke-dasharray: 1000; stroke-dashoffset: 1000; animation: d 1.6s cubic-bezier(.6,0,.2,1) forwards; }
