@@ -33,9 +33,11 @@
   <g class="rise a2">
     <text fill="var(--bone)" class="mono" x="46" y="176" font-size="64" letter-spacing="-2">YANNICH THAY</text>
   </g>
+  
   <g class="fade a3">
-    <text fill="var(--muted)" class="mono" x="48" y="214" font-size="19">Electrotechnical & Computer Engineering Student </text>
-    <g class="fade a4">
+    <text fill="var(--muted)" class="mono" x="48" y="214" font-size="19">Electrotechnical &amp; Computer Engineering Student </text>
+  </g>
+  <g class="fade a4">
     <text fill="var(--accent)" class="mono" x="48" y="240" font-size="12.5" letter-spacing="0.5"> bridging circuits and software for defensive security.</text>
   </g>
 
@@ -53,6 +55,6 @@
     <text fill="var(--muted)" class="mono" x="282" y="374" font-size="11.5" letter-spacing="3">CYBERSECURITY</text>
     <text fill="var(--accent)" class="mono" x="425" y="374" font-size="11.5">·</text>
     <text fill="var(--muted)" class="mono" x="450" y="374" font-size="11.5" letter-spacing="3">ARCHITECTURE</text>
-    <text fill="var(--muted)" class="mono" x="952" y="374" font-size="11.5" letter-spacing="3" text-anchor="end">Electronics & Computer - PRESENT</text>
+    <text fill="var(--muted)" class="mono" x="952" y="374" font-size="11.5" letter-spacing="3" text-anchor="end">Electronics &amp; Computer - PRESENT</text>
   </g>
 </svg>
